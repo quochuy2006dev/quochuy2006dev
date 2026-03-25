@@ -35,7 +35,7 @@
 ---
 
 ### 📫 Connect with me
-- 📧 Email: [24520711@gm.uit.edu.vn](mailto:24520711@gm.uit.edu.vn)
+- 📧 Email: [vohuy2771@gmai.com](mailto:vohuy2771@gmai.com)
 - 📍 Ho Chi Minh City, Vietnam
 
 ---
