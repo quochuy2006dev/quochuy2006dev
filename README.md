@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Huy (Võ Quốc Huy) 👋
+### 🎓 Student at University of Information Technology (UIT)
 
-<!--
-**quochuy2006dev/quochuy2006dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Embedded Systems (STM32, Arduino)**
+- 🌱 I’m currently learning **Data Structures & Algorithms with C++**
+- ⚡ Fun fact: I love simulating circuits in **LTspice**
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=quochuy2006dev&show_icons=true&theme=radical)
